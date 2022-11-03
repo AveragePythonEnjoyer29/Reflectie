@@ -1,8 +1,8 @@
 # Reflectie
-## Oscar Slot
+## Eric Reijtenbagh
 - Wat heb ik met deze lessen nieuw geleerd?
-Niet veel
+git en gituhb gebruiken
 - Wat wist ik al?
-alles
+niks
 - waarvan zou ik nog meer willen weten?
-Het resolven van merge conflicts
+in detail kunne werken
