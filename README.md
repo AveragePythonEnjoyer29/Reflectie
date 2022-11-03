@@ -1,5 +1,13 @@
 # Reflectie
 
+## Oscar
+- Wat heb ik met deze lessen nieuw geleerd?
+Niks
+- Wat wist ik al?
+Zo'n beetje alles
+- waarvan zou ik nog meer willen weten?
+Het resolven van merge conflicts
+
 ## Donny de Vries
 - Wat heb ik met deze lessen nieuw geleerd?
 Met cd werken, branches maken, notepad openen met cmd, etc
