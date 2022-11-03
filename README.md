@@ -1,8 +1,8 @@
 # Reflectie
-## Oscar Slot
+## Donny de Vries
 - Wat heb ik met deze lessen nieuw geleerd?
-Niet veel
+Met cd werken, branches maken, notepad openen met cmd, etc
 - Wat wist ik al?
-alles
+Helemaal niks.
 - waarvan zou ik nog meer willen weten?
-Het resolven van merge conflicts
+Het resolven van merge conflicts!!!
